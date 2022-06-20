@@ -7,7 +7,7 @@
   "filenotfound": "[Error] The given file '{filename}' is not accesable.",
   "nonetwork":
   {
-    "norgcollectivedata":"[Fatal Error] Can't access the NorgCollective Database. Please check you internet connection, or try to install 'requests' pip-pkg.",
+    "norgcollectivedata":"[Fatal Error] Can't access the NorgCollective Database. Please check your internet connection, or try to install 'requests' pip-pkg.",
     "unimportant":"[Warning] Can't access '{webpage}'. Please check your internet connection, or try to install the 'requests' pip-pkg.",
     "important":"[Error] Can't access '{webpage}'. Please check your internet connection, or try to install the 'requests' pip-pkg.",
     "necessary":"[Fatal Error] Can't access '{webpage}'. Please check your internet connection, or try to install the 'requests' pip-pkg."
