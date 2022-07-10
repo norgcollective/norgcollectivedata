@@ -1,6 +1,4 @@
 {
-  "de.heschy.mathtrainer.cli" : "Norg Math Trainer in Console",
-  "de.heschy.mathtrainer.gui" : "Norg Math Trainer",
-  "de.heschy.savekey.cli" : "Norg Savekey - Console Edition",
-  "de.heschy.savekey.gui" : "Norg Savekey"
+  "de.heschy.mathtrainer" : "Norg Math Trainer"
+  "de.norgcollective.savekey" : "HeSchy SaveKey"
 }
