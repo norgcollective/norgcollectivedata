@@ -1,0 +1,12 @@
+{
+  "de.norgcollective.savekey": {
+    "sk.bug.mainmenu.icon" : {
+      "description":"The Icon of the hamburger Menu is not shown in some Desktop Environments.",
+      "howtosolve":"unknown"
+    },
+    "sk.bug.dialog.close"  : {
+      "description":"The Dialogs doesn't close themselves after the button is clicked.",
+      "howtosolve":"Create a Gtk.Window instead of the Gtk.MessageDialog"
+    },
+  }
+}
